@@ -1,0 +1,28 @@
+html {
+		background-color: #add8e6;
+
+}
+img  {
+		height: 100px;
+        width: 200px;
+        border: 1px solid #4682b4;
+        margin-left: 40%;
+    }
+.mine {
+		border: 1px;
+		border-align: center;
+
+}
+h1 {
+	text-align: center;
+	color: solid black;
+}
+h2 {
+	text-align: center;
+}		
+a {
+
+	color: blue;
+	font-family: Verdana, sans-serif;
+	margin-left: 40%;
+}
